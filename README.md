@@ -11,7 +11,7 @@ Data Scientist from Ireland.
 
 ### Languages, Libraries & Frameworks
 
-[![Python](https://img.shields.io/python/required-version-toml)](#) 
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) 
 
 ### Tools
 
