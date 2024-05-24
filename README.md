@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🚀 About me 
 
-<!--
-**elodwyer1/elodwyer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist from Ireland.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📮  Feel free to reach out: odwyerbeth621@gmail.com
+
+🥇 "If we're not winning we're learning" :)
+
+## 💻 Tech Stack:
+
+### Languages, Libraries & Frameworks
+
+[![Python](https://img.shields.io/python/required-version-toml)](#) 
+
+### Tools
+
+
+ <h2>📊 My Stats: </h2>
+ 
+
